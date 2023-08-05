@@ -20,19 +20,31 @@
 
 ## 文书精彩片段
 
-Here's a sample of how our tool can improve your writing:
+> [A quintessential Quantitative Researcher possesses robust business acumen, profound mathematical expertise, adeptness in programming, and eloquent communication skills. My academic portfolio, enriched with courses in accounting, management, economics, and corporate finance, has instilled in me keen business insight. Rigorous mathematical subjects, spanning real analysis, probability theory, differential equations, and more, have fortified my mathematical prowess. Meanwhile, programming courses in Python and C++ (the latter I'm currently pursuing at Berkeley Extension) are sharpening my coding skills. My affiliations with the student union and the Chinese Young Volunteers Association have honed my communication abilities.]
 
-> [Embed or link to your example essay here]
+> [After completing Master degree, I would like to continue to pursue a PhD and then
+conduct research in the industry. I wish my research in explainable machine learning
+could make more companies trust deep learning and utilize it to make the world a
+better place. That’s why I’m currently doing a research intern at XXX, where we aim to introduce AI to XXX field and eradicates racial and
+gender biases in the XXX system. Making machine learning more robust, fair,
+interpretable, and accessible to everyone is what I’m hoping to achieve.]
 
-## Pricing and Notices
+> [My aspiration is to transition into a role as a Consultant in Analytics, ideally within forward-thinking firms like PwC, where I can guide businesses through the labyrinth of data-driven decisions. I am convinced that a Master in Business Analytics from the University of Southern California is the catalyst I need. Not only will it refine my analytical abilities but also empower me with the advanced skills required to realize my professional vision.]
+
+## Notices
 
 我们目前只提供 "statement of purpose (SOP)" 的创作以及修改，以下是我们对SOP的定义:
+
+Statement of Purpose 是大部分项目要求申请者写的文书，主要需要解释为什么要申请这个项目，有些学校也会叫这个文书为Personal Statement。如果您申请的项目有要求特殊的文书，比如一些商学院的文书让申请者回答一些behavior question，这些文书便不属于我们服务的范畴。
+
 
 以下是购买我们文书服务后所需提供的资料：
 1. Resume, CV
 2. Transcript
 3. 申请项目提供的文书具体要求
 4. 实习经历，项目经历的描述 (可选)
+
+## Price
 
 以下是我们文书创作服务的定价：
 - 300 words 500 RMB
@@ -41,4 +53,4 @@ Here's a sample of how our tool can improve your writing:
 
 文书修改需根据您提供的文书初稿进行定价
 
-期待您能选择BisonJony，我们一定会提供让您满意的文书服务！
+*期待您能选择BisonJony，我们一定会提供让您满意的文书服务！*
