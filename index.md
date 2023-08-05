@@ -2,6 +2,12 @@
 
 这里会介绍我们 BisonJony 的文书创作/修改服务。我们立志于提供性价比最高的优质文书服务。
 
+1. [Our Advantages](#our-advantages)
+2. [Meet Our Team](#meet-our-team)
+3. [Sample Essay](#sample-essay)
+4. [Notices](#notices)
+5. [Price](#price)
+
 ## Our Advantages
 
 - **专业**: 我们对于文书的创作与修改都是由美国 Top30 相关专业PhD亲自执笔。
@@ -18,7 +24,7 @@
   
 - **Bison**: Bison 老师毕业于美本 TOP 50 统计专业，辅修数据科学，学习大量计算机，人工智能课程，并且本科时修过4门以上写作课程。同时通过多门SOA精算师考试，GPA 3.95+，现就读与美国TOP30 统计博士
 
-## 文书精彩片段
+## Sample Essay
 
 > [A quintessential Quantitative Researcher possesses robust business acumen, profound mathematical expertise, adeptness in programming, and eloquent communication skills. My academic portfolio, enriched with courses in accounting, management, economics, and corporate finance, has instilled in me keen business insight. Rigorous mathematical subjects, spanning real analysis, probability theory, differential equations, and more, have fortified my mathematical prowess. Meanwhile, programming courses in Python and C++ (the latter I'm currently pursuing at Berkeley Extension) are sharpening my coding skills. My affiliations with the student union and the Chinese Young Volunteers Association have honed my communication abilities.]
 
