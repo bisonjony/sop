@@ -7,6 +7,7 @@
 3. [Sample Essay](#sample-essay)
 4. [Notices](#notices)
 5. [Price](#price)
+6. [Contact](#contact)
 
 ## Our Advantages
 
@@ -58,5 +59,14 @@ Statement of Purpose 是大部分项目要求申请者写的文书，主要需�
 - 1000 words 1500 RMB
 
 文书修改需根据您提供的文书初稿进行定价
+
+## Contact
+如需文书服务，请添加微信
+To_ny5677
+
+<img src="https://github.com/bisonjony/sop/assets/141492791/80a3a208-4969-4a7e-9c51-26830eb66f25" width="200px" height="200px">
+
+或者
+xul019
 
 *期待您能选择BisonJony，我们一定会提供让您满意的文书服务！*
