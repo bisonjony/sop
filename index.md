@@ -14,12 +14,11 @@
 
 ## Meet Our Team
 
-We are a team of two dedicated individuals working tirelessly to make essay writing easier for you.
+- **Jony**: Jony 老师毕业于美本 TOP 50 经济，数学双专业，学习大量文学课程，精通文书写作​，GPA 3.95+，现就读与美国 TOP30 经济博士。
+  
+- **Bison**: Bison 老师毕业于美本 TOP 50 统计专业，辅修数据科学，学习大量计算机，人工智能课程，并且本科时修过4门以上写作课程。同时通过多门SOA精算师考试，GPA 3.95+，现就读与美国TOP30 统计博士
 
-1. **Member 1**: Briefly describe this member's role and qualifications.
-2. **Member 2**: Briefly describe this member's role and qualifications.
-
-## Sample Essay
+## 文书精彩片段
 
 Here's a sample of how our tool can improve your writing:
 
@@ -27,10 +26,19 @@ Here's a sample of how our tool can improve your writing:
 
 ## Pricing and Notices
 
-Our product comes at an affordable price of [price]. Here are a few things to note:
+我们目前只提供 "statement of purpose (SOP)" 的创作以及修改，以下是我们对SOP的定义:
 
-- Notice 1
-- Notice 2
-- Notice 3
+以下是购买我们文书服务后所需提供的资料：
+1. Resume, CV
+2. Transcript
+3. 申请项目提供的文书具体要求
+4. 实习经历，项目经历的描述 (可选)
 
-Thank you for considering our product. If you have any questions, don't hesitate to reach out to us!
+以下是我们文书创作服务的定价：
+- 300 words 500 RMB
+- 500 words 800 RMB
+- 1000 words 1500 RMB
+
+文书修改需根据您提供的文书初稿进行定价
+
+期待您能选择BisonJony，我们一定会提供让您满意的文书服务！
