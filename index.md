@@ -62,11 +62,13 @@ Statement of Purpose 是大部分项目要求申请者写的文书，主要需�
 
 ## Contact
 如需文书服务，请添加微信
-To_ny5677
+
+xul019
+
+<img src="https://github.com/bisonjony/sop/assets/141492791/a10750c9-308b-4d4f-b049-a3a0335d136b" width="220px" height="200px">
+
+或 To_ny5677
 
 <img src="https://github.com/bisonjony/sop/assets/141492791/80a3a208-4969-4a7e-9c51-26830eb66f25" width="200px" height="200px">
-
-或者
-xul019
 
 *期待您能选择BisonJony，我们一定会提供让您满意的文书服务！*
